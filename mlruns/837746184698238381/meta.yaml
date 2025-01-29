@@ -1,0 +1,6 @@
+artifact_location: file:///home/ubuntu/nyc_taxi/mlruns/837746184698238381
+creation_time: 1738167187560
+experiment_id: '837746184698238381'
+last_update_time: 1738167187560
+lifecycle_stage: active
+name: nyc_taxi_fare_prediction
